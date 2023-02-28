@@ -1,0 +1,5 @@
+pip install pandas
+pip install streamlit
+pip install streamlit_option_menu
+pip install pymongo
+pip install selenium
